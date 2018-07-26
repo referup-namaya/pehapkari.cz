@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:feedpress="https://feed.press/xmlns" version="2.0">
+    <channel>
+        <feedpress:locale>cs</feedpress:locale>
+        <feedpress:newsletterId>nejenophp</feedpress:newsletterId>
+        <atom:link rel="self" href="https://pehapkari.cz/rss.xml" />
+
+        <title><![CDATA[Nejen o PHP]]></title>
+        <link><![CDATA[https://pehapkari.cz]]></link>
+        <language>cs</language>
+        <copyright><![CDATA[© 2016 Péhápkaři.cz]]></copyright>
+        <description><![CDATA[Povídání o všem možném kolem PHP, komunit a vzdělání.]]></description>
+
+        <itunes:subtitle><![CDATA[Péhápkaři si povídají nejen o PHP]]></itunes:subtitle>
+        <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+        <itunes:summary><![CDATA[Povídání o všem možném kolem PHP, komunit a vzdělání.]]></itunes:summary>
+        <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png"/>
+        <itunes:category text="Technology"/>
+        <itunes:explicit>clean</itunes:explicit>
+
+                                    <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2018/05/21/novinky-v-symfony-4-1-routovanie</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Symfony framework pokračuje v začatom trende inovácií vo svojej verzií 4.1 a opäť prináša množstvo zaujímavých noviniek. Poďme sa teda spolu pozrieť na novinky v súvislosti s routovaním.</description>
+
+                    <itunes:subtitle>Symfony framework pokračuje v začatom trende inovácií vo svojej verzií 4.1 a opäť prináša množstvo zaujímavých noviniek. Poďme sa teda spolu pozrieť na novinky v súvislosti s routovaním.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2018/05/14/symfony-4-dependency-injection</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>O Dependency Injection už počul snáď každý programátor. Symfony posúva hranice DI ďalej a v spojení s autokonfiguráciou služieb tvorí predpoklad pre vznik flexibilnejších a prehľadnejších aplikácií.</description>
+
+                    <itunes:subtitle>O Dependency Injection už počul snáď každý programátor. Symfony posúva hranice DI ďalej a v spojení s autokonfiguráciou služieb tvorí predpoklad pre vznik flexibilnejších a prehľadnejších aplikácií.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2018/04/25/sylius-resource-bundle-how-to-develop-your-crud-apps-faster</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Brief introduction to Sylius ecosystem: SyliusResourceBundle and Rapid CRUD application development.</description>
+
+                    <itunes:subtitle>Brief introduction to Sylius ecosystem: SyliusResourceBundle and Rapid CRUD application development.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2018/04/18/orm-wtf</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>We will take a look at what is the object-relational mapping and what it is not.
+We will show why it is difficult, when to use it and when it&#039;s better to avoid it.</description>
+
+                    <itunes:subtitle>We will take a look at what is the object-relational mapping and what it is not.
+We will show why it is difficult, when to use it and when it&#039;s better to avoid it.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2018/04/11/how-anyone-can-write-a-post-here</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Do you want to write about PHP, but don&#039;t have a blog? Do you have some ideas you&#039;d like to share, but don&#039;t have time and know-how to spread them over social networks? Do you want to share your ideas to hunders of listening programmers?
+&lt;br&gt;&lt;br&gt;
+&lt;strong&gt;Just write a post in Markdown and send PR to this open-source blog.&lt;/strong&gt; </description>
+
+                    <itunes:subtitle>Do you want to write about PHP, but don&#039;t have a blog? Do you have some ideas you&#039;d like to share, but don&#039;t have time and know-how to spread them over social networks? Do you want to share your ideas to hunders of listening programmers?
+&lt;br&gt;&lt;br&gt;
+&lt;strong&gt;Just write a post in Markdown and send PR to this open-source blog.&lt;/strong&gt; </itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2018/04/04/cyklomaticka-komplexita</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Cyklomatická komplexita, neboli podmínková složitost je metrika indikující složitost zdrojového kódu.&lt;/p&gt;
+&lt;p&gt;Jedná se o jednu z hlavním metrik, díky které lze posoudit jeho kvalitu.&lt;/p&gt;
+&lt;p&gt;Udává počet různých cest skrze zdrojový kód. K čemu je to dobré? Díky tomu lze blíže odpovědět na 3 otázky:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Je kód dobře testovatelný?&lt;/li&gt;
+&lt;li&gt;Je kód snadno čitelný?&lt;/li&gt;
+&lt;li&gt;Je kód dostatečně spolehlivý?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Pomáhá nám to také určit počet testů, které bychom měli na kódu provádět.</description>
+
+                    <itunes:subtitle>Cyklomatická komplexita, neboli podmínková složitost je metrika indikující složitost zdrojového kódu.&lt;/p&gt;
+&lt;p&gt;Jedná se o jednu z hlavním metrik, díky které lze posoudit jeho kvalitu.&lt;/p&gt;
+&lt;p&gt;Udává počet různých cest skrze zdrojový kód. K čemu je to dobré? Díky tomu lze blíže odpovědět na 3 otázky:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Je kód dobře testovatelný?&lt;/li&gt;
+&lt;li&gt;Je kód snadno čitelný?&lt;/li&gt;
+&lt;li&gt;Je kód dostatečně spolehlivý?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Pomáhá nám to také určit počet testů, které bychom měli na kódu provádět.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2018/03/28/domain-driven-design-services-factories</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>This article is a reaction to readers’ confusion about services.
+We&#039;ll cover a domain service and domain factory in this article and when to use them and when not to.</description>
+
+                    <itunes:subtitle>This article is a reaction to readers’ confusion about services.
+We&#039;ll cover a domain service and domain factory in this article and when to use them and when not to.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2018/03/21/symfony-4-ako-v-praxi-funguje-flex</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Ako titulka napovedá, pozrieme sa spoločne na jednu z mnohých skvelých noviniek, ktorú priniesol framework Symfony vo svojej štvrtej verzii. Pokúsim sa Vám priblížiť, čo Symfony Flex vlastne je a ako pracuje.</description>
+
+                    <itunes:subtitle>Ako titulka napovedá, pozrieme sa spoločne na jednu z mnohých skvelých noviniek, ktorú priniesol framework Symfony vo svojej štvrtej verzii. Pokúsim sa Vám priblížiť, čo Symfony Flex vlastne je a ako pracuje.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2018/03/21/domain-driven-design-alternative-mapping</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Do you think that multilingual text must always be in a separate database table? Than this article is for you!&lt;/p&gt;
+&lt;p&gt;We will show that not all arrays have to be mapped as database tables.
+And we will also show the Doctrine implementation.</description>
+
+                    <itunes:subtitle>Do you think that multilingual text must always be in a separate database table? Than this article is for you!&lt;/p&gt;
+&lt;p&gt;We will show that not all arrays have to be mapped as database tables.
+And we will also show the Doctrine implementation.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2018/03/14/symfony-4-vytvarime-chytry-kontroler</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Co kdyby byl Symfony kontroler schopný automaticky najít správnou šablonu k požadované akci bez nutnosti opakovaně psát její cestu? Co takhle mít možnost zasílat parametry do šablony z více míst a třeba i před renderovací metodou?
+Symfony 4 je skvělý framework ale po chvíli práce s ním mi začaly chybět některé fičury, na které jsem byl zvyklý z jiných frameworků, jako je například &lt;a href=&quot;https://nette.org/cs/&quot;&gt;Nette Framework&lt;/a&gt;.
+Rozhodl jsem se, že si je do Symfony musím dodělat. V tomto článku vám ukážu, jak jsem toho docílil.</description>
+
+                    <itunes:subtitle>Co kdyby byl Symfony kontroler schopný automaticky najít správnou šablonu k požadované akci bez nutnosti opakovaně psát její cestu? Co takhle mít možnost zasílat parametry do šablony z více míst a třeba i před renderovací metodou?
+Symfony 4 je skvělý framework ale po chvíli práce s ním mi začaly chybět některé fičury, na které jsem byl zvyklý z jiných frameworků, jako je například &lt;a href=&quot;https://nette.org/cs/&quot;&gt;Nette Framework&lt;/a&gt;.
+Rozhodl jsem se, že si je do Symfony musím dodělat. V tomto článku vám ukážu, jak jsem toho docílil.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2018/03/07/domain-driven-design-doctrine-repository</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Now we will implement an actual relational database repository using Doctrine 2 and as always we&#039;ll try to test it.</description>
+
+                    <itunes:subtitle>Now we will implement an actual relational database repository using Doctrine 2 and as always we&#039;ll try to test it.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2018/02/28/domain-driven-design-repository</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>We will discuss how to store and read domain objects while pretending we have an in-memory system.
+Simply, we will show how to implement and test repository.</description>
+
+                    <itunes:subtitle>We will discuss how to store and read domain objects while pretending we have an in-memory system.
+Simply, we will show how to implement and test repository.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2018/02/21/domain-driven-design-implementation</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>It is great to model something and now we have reached the point where we turn the model into the code.
+We will implement the model, no persistence, no input, only the most important part - the domain model.
+The implementation will be supported by tests and we will see how easy it is to test domain objects.
+We will also discuss the connection to the ubiquitous language and model and practical aspect of object encapsulation.</description>
+
+                    <itunes:subtitle>It is great to model something and now we have reached the point where we turn the model into the code.
+We will implement the model, no persistence, no input, only the most important part - the domain model.
+The implementation will be supported by tests and we will see how easy it is to test domain objects.
+We will also discuss the connection to the ubiquitous language and model and practical aspect of object encapsulation.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2018/02/14/solid-principy-princip-obraceni-zavislosti</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Definice říká, že:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;A. Moduly vyšší úrovně by neměly záviset na modulech nižší úrovně.
+Oboje by mělo být  závislé na abstrakci.
+
+B. Abstrakce by neměla záviset na detailech.
+Detaily by měly záviset na abstrakci.&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;De facto můžeme říct, že byste téměř vždy měli záviset na abstrakci a nikoli na konkrétní implementaci.</description>
+
+                    <itunes:subtitle>Definice říká, že:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;A. Moduly vyšší úrovně by neměly záviset na modulech nižší úrovně.
+Oboje by mělo být  závislé na abstrakci.
+
+B. Abstrakce by neměla záviset na detailech.
+Detaily by měly záviset na abstrakci.&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;De facto můžeme říct, že byste téměř vždy měli záviset na abstrakci a nikoli na konkrétní implementaci.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2018/02/07/solid-principy-liskovove-princip-zastoupeni</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Liskovové princip zastupitelnosti je definovám jako tahle na první podhled děsivá rovnice:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Nechť Φ(x) je vlastnost prokazatelná objektu x typu T.
+Potom Φ(y) jsou pravdivé pro objekty y typu S, kde S je potomkem T.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Trochu lidskými slovy ale říká:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Supertyp by měl být plně nahraditelný podtypem.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockqu</description>
+
+                    <itunes:subtitle>Liskovové princip zastupitelnosti je definovám jako tahle na první podhled děsivá rovnice:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Nechť Φ(x) je vlastnost prokazatelná objektu x typu T.
+Potom Φ(y) jsou pravdivé pro objekty y typu S, kde S je potomkem T.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Trochu lidskými slovy ale říká:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Supertyp by měl být plně nahraditelný podtypem.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockqu</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2018/01/31/solid-principy-princip-otevrenosti-a-uzavranosti</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Princip říká, že:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Softwarové entity (třídy, moduly, funkce, atd.) by měly být otevřené pro rozšíření, ale uzavřené pro změnu.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockqu</description>
+
+                    <itunes:subtitle>Princip říká, že:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Softwarové entity (třídy, moduly, funkce, atd.) by měly být otevřené pro rozšíření, ale uzavřené pro změnu.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockqu</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2018/01/24/solid-principy-princip-jedne-odpovednosti</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Princip jedné odpovědnosti (Single Responsibility Principle) je první z pěti principů SOLID (právě to S).&lt;/p&gt;
+&lt;p&gt;Jde o metodu, díky které se kód stává přehlednějším a srozumitelnější. Říká třídě, že je zodpovědná pouze za jednu jedinou věc.</description>
+
+                    <itunes:subtitle>Princip jedné odpovědnosti (Single Responsibility Principle) je první z pěti principů SOLID (právě to S).&lt;/p&gt;
+&lt;p&gt;Jde o metodu, díky které se kód stává přehlednějším a srozumitelnější. Říká třídě, že je zodpovědná pouze za jednu jedinou věc.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2018/01/17/a-place-to-meet-statie</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>I&#039;m happy to announce that Statie, a newcomer to the field of static site generators written in PHP, received a place where it could promote itself better. &lt;a href=&quot;https://www.statie.org&quot;&gt;Its own website&lt;/a&gt;. Though a really simple one; but it&#039;s healthy to start with small things, they say.</description>
+
+                    <itunes:subtitle>I&#039;m happy to announce that Statie, a newcomer to the field of static site generators written in PHP, received a place where it could promote itself better. &lt;a href=&quot;https://www.statie.org&quot;&gt;Its own website&lt;/a&gt;. Though a really simple one; but it&#039;s healthy to start with small things, they say.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2018/01/12/phpstorm-napovidani</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Fungující napovídání syntaxe vašeho kódu je naprosto základním předpokladem pro dobré fungování pokročilých nástrojů, které vám PhpStorm nabízí. Existuje několik možností, jak PhpStormu pomoci váš kód pochopit. Začneme těmi základními a postupně se dostaneme až k pokročilým.</description>
+
+                    <itunes:subtitle>Fungující napovídání syntaxe vašeho kódu je naprosto základním předpokladem pro dobré fungování pokročilých nástrojů, které vám PhpStorm nabízí. Existuje několik možností, jak PhpStormu pomoci váš kód pochopit. Začneme těmi základními a postupně se dostaneme až k pokročilým.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2018/01/06/domain-driven-design-simplify-object-model</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>There are always many ways how to implement the abstract model.
+The implementation can be made in smooth and simple or in overcomplicated way.
+It is surprisingly easy to end up with a complicated solution.&lt;/p&gt;
+&lt;p&gt;But we will take the effort and introduce strategies and concepts that will help us simplify the model.</description>
+
+                    <itunes:subtitle>There are always many ways how to implement the abstract model.
+The implementation can be made in smooth and simple or in overcomplicated way.
+It is surprisingly easy to end up with a complicated solution.&lt;/p&gt;
+&lt;p&gt;But we will take the effort and introduce strategies and concepts that will help us simplify the model.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/12/25/debugovani-cli-skriptu-s-xdebugem</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Debugování je každodenním chlebem programátorů. Ukáži vám, jak rychle a jednoduše se dají debugovat konzolové skripty s Xdebugem.&lt;/p&gt;
+&lt;p&gt;Už žádné &lt;code&gt;print()&lt;/code&gt; a &lt;code&gt;echo&lt;/code&gt; v konzolových commandech pro zjištění hodnoty proměnné  :-).</description>
+
+                    <itunes:subtitle>Debugování je každodenním chlebem programátorů. Ukáži vám, jak rychle a jednoduše se dají debugovat konzolové skripty s Xdebugem.&lt;/p&gt;
+&lt;p&gt;Už žádné &lt;code&gt;print()&lt;/code&gt; a &lt;code&gt;echo&lt;/code&gt; v konzolových commandech pro zjištění hodnoty proměnné  :-).</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/12/16/domain-driven-design-model</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>All of us model every day.
+A friend tells us a joke, we imagine the situation and if we model it as is intended, we find the situation funny.
+A customer wants to have a new functionality and while he speaks, we try to imagine what does the customer wants - we model.&lt;/p&gt;
+&lt;p&gt;We are going to take a look at what is software modeling, how can we express the model and how can we capture key concepts.</description>
+
+                    <itunes:subtitle>All of us model every day.
+A friend tells us a joke, we imagine the situation and if we model it as is intended, we find the situation funny.
+A customer wants to have a new functionality and while he speaks, we try to imagine what does the customer wants - we model.&lt;/p&gt;
+&lt;p&gt;We are going to take a look at what is software modeling, how can we express the model and how can we capture key concepts.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/12/15/strange-codes-multiple-identities-team-habits</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Just what I had in my mind or have tackled with in the recent past underlayed with the knowledge of the others.</description>
+
+                    <itunes:subtitle>Just what I had in my mind or have tackled with in the recent past underlayed with the knowledge of the others.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/12/08/solid-principy-4-dil-princip-oddeleneho-rozhrani</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Princip odděleného rozhraní je definované Robertem C. Martinem původně pro Xerox a říká:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Více specifických rozhraní je lepší než jedno obecné rozhraní.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Při jeho dodržování se kód stává více znovupoužitelný a užitečný. Pokud je více tříd nuceno implementovat rozhraní s metodami, které nepotřebují, je vhodné najít logický průnik (v čem se shodují) a rozhraní oddělit.</description>
+
+                    <itunes:subtitle>Princip odděleného rozhraní je definované Robertem C. Martinem původně pro Xerox a říká:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Více specifických rozhraní je lepší než jedno obecné rozhraní.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Při jeho dodržování se kód stává více znovupoužitelný a užitečný. Pokud je více tříd nuceno implementovat rozhraní s metodami, které nepotřebují, je vhodné najít logický průnik (v čem se shodují) a rozhraní oddělit.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/12/05/domain-driven-design-language</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Domain-driven design is a software design that focuses on understanding underlying business.
+It is useful for long-term projects because it leads to high-quality software that serves users.
+It helps when dealing with difficult problems, keeps track of core problems and prevents us from getting lost in the code.</description>
+
+                    <itunes:subtitle>Domain-driven design is a software design that focuses on understanding underlying business.
+It is useful for long-term projects because it leads to high-quality software that serves users.
+It helps when dealing with difficult problems, keeps track of core problems and prevents us from getting lost in the code.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/11/30/doctrine-2-dedicnost-entit</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Entity v ORM (objektově relační mapování) zachycují objekty z reálného světa a transformují je do tříd v programovacím jazyku. V reálném světě má vždy skupina objektů stejné vlastnosti a liší v některých detailech. Všichni lidé mají jméno, datum narození, pohlaví, ale liší se v barvě očí, pleti, dovednostech apod.
+&lt;br&gt;&lt;br&gt;
+Při čistém návrhu entit by se nám tedy hodila dědičnost. Umí ji Doctrine zpracovat, a jak s takovou entitou pracuje?</description>
+
+                    <itunes:subtitle>Entity v ORM (objektově relační mapování) zachycují objekty z reálného světa a transformují je do tříd v programovacím jazyku. V reálném světě má vždy skupina objektů stejné vlastnosti a liší v některých detailech. Všichni lidé mají jméno, datum narození, pohlaví, ale liší se v barvě očí, pleti, dovednostech apod.
+&lt;br&gt;&lt;br&gt;
+Při čistém návrhu entit by se nám tedy hodila dědičnost. Umí ji Doctrine zpracovat, a jak s takovou entitou pracuje?</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/10/30/jak-jsi-zacal-s-php</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Dnes se řeší jaká technologie je nejlepší, kdo má větší kontejner nebo nejnovější smartfoun. Ve víru informací se zapomíná na to, &lt;strong&gt;jak naše PHP cesty vlastně začaly&lt;/strong&gt;. Co v nás tu vášeň zažehlo.
+&lt;br&gt;
+&lt;br&gt;
+Před nedávnem jsme dávali anketu &lt;em&gt;Jak jsi začal s PHP&lt;/em&gt;. Pojďme si tu vášeň připomenout - tady je pár vybraných kousků, které jste nám poslali.</description>
+
+                    <itunes:subtitle>Dnes se řeší jaká technologie je nejlepší, kdo má větší kontejner nebo nejnovější smartfoun. Ve víru informací se zapomíná na to, &lt;strong&gt;jak naše PHP cesty vlastně začaly&lt;/strong&gt;. Co v nás tu vášeň zažehlo.
+&lt;br&gt;
+&lt;br&gt;
+Před nedávnem jsme dávali anketu &lt;em&gt;Jak jsi začal s PHP&lt;/em&gt;. Pojďme si tu vášeň připomenout - tady je pár vybraných kousků, které jste nám poslali.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/10/24/komunikace-se-zakaznikem-anti-tipy-1-komunikacni-kanal</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Existuje tisíc a jeden způsobů, jak podělat projekt, a v našem seriálu si některé ukážeme. Dnes bych rád mluvil o &lt;strong&gt;způsobu komunikace&lt;/strong&gt;.</description>
+
+                    <itunes:subtitle>Existuje tisíc a jeden způsobů, jak podělat projekt, a v našem seriálu si některé ukážeme. Dnes bych rád mluvil o &lt;strong&gt;způsobu komunikace&lt;/strong&gt;.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/10/22/connecting-monolog-with-ELK</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>ELK is awesome stack for logging. Monolog is awesome PHP logging library. Let&#039;s make them work together.</description>
+
+                    <itunes:subtitle>ELK is awesome stack for logging. Monolog is awesome PHP logging library. Let&#039;s make them work together.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/10/15/how-to-use-ELK-stack</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>In this article, I&#039;ll show you how to use ELK stack for logging. We will use ELK in docker for easy setup.</description>
+
+                    <itunes:subtitle>In this article, I&#039;ll show you how to use ELK stack for logging. We will use ELK in docker for easy setup.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/10/02/jak-hromadne-spravovat-privatni-composer-balicky</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Composer je dobrý sluha, ale zlý pán, pokud nevíte jak s ním pracovat. Podívejte se na naše workflow vývoje, kdy je dána plně modulární aplikace a ta se řídí závislostmi na konkrétních balíčcích.</description>
+
+                    <itunes:subtitle>Composer je dobrý sluha, ale zlý pán, pokud nevíte jak s ním pracovat. Podívejte se na naše workflow vývoje, kdy je dána plně modulární aplikace a ta se řídí závislostmi na konkrétních balíčcích.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/09/11/arachne-verifier-plus-arachne-entity-loader-using-entities-in-verifier-rules</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>This article demonstrates that while Arachne components are mostly independent on each other, their potential raises dramatically when you use them together. Push both &lt;a href=&quot;https://github.com/Arachne/ParameterValidation&quot;&gt;Arachne/ParameterValidation&lt;/a&gt; and &lt;a href=&quot;https://github.com/Arachne/SecurityVerification&quot;&gt;Arachne/SecurityVerification&lt;/a&gt; to their limits with &lt;a href=&quot;https://github.com/Arachne/EntityLoader&quot;&gt;Arachne/EntityLoader&lt;/a&gt;!</description>
+
+                    <itunes:subtitle>This article demonstrates that while Arachne components are mostly independent on each other, their potential raises dramatically when you use them together. Push both &lt;a href=&quot;https://github.com/Arachne/ParameterValidation&quot;&gt;Arachne/ParameterValidation&lt;/a&gt; and &lt;a href=&quot;https://github.com/Arachne/SecurityVerification&quot;&gt;Arachne/SecurityVerification&lt;/a&gt; to their limits with &lt;a href=&quot;https://github.com/Arachne/EntityLoader&quot;&gt;Arachne/EntityLoader&lt;/a&gt;!</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/09/04/arachne-entity-loader-object-parameters-for-nette-application</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Ever wanted to get rid of &lt;code&gt;EntityManager::find($id)&lt;/code&gt; as the first thing in your every presenter action?
+With &lt;a href=&quot;https://github.com/Arachne/EntityLoader&quot;&gt;Arachne/EntityLoader&lt;/a&gt; you can.
+Of course it is not limited to Doctrine, you can easily use it with a different ORM library.</description>
+
+                    <itunes:subtitle>Ever wanted to get rid of &lt;code&gt;EntityManager::find($id)&lt;/code&gt; as the first thing in your every presenter action?
+With &lt;a href=&quot;https://github.com/Arachne/EntityLoader&quot;&gt;Arachne/EntityLoader&lt;/a&gt; you can.
+Of course it is not limited to Doctrine, you can easily use it with a different ORM library.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/08/28/arachne-verifier-request-validator-for-nette-application</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>The concept behind &lt;a href=&quot;https://github.com/Arachne/Verifier&quot;&gt;Arachne/Verifier&lt;/a&gt; was originally meant to solve annotations-based authorization for &lt;a href=&quot;https://github.com/nette/application&quot;&gt;Nette/Application&lt;/a&gt;.
+Now after years of development it is no longer limited to neither annotations nor authorization making it a very powerful tool for your security layer.</description>
+
+                    <itunes:subtitle>The concept behind &lt;a href=&quot;https://github.com/Arachne/Verifier&quot;&gt;Arachne/Verifier&lt;/a&gt; was originally meant to solve annotations-based authorization for &lt;a href=&quot;https://github.com/nette/application&quot;&gt;Nette/Application&lt;/a&gt;.
+Now after years of development it is no longer limited to neither annotations nor authorization making it a very powerful tool for your security layer.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/08/21/arachne-security-simplified-authorizator-and-fixed-acl-callbacks</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Authorization in &lt;a href=&quot;https://github.com/nette/security&quot;&gt;Nette/Security&lt;/a&gt; has some long-known drawbacks as demonstrated in my 4 years old &lt;a href=&quot;https://forum.nette.org/cs/13458-security-iauthorizator-a-identita&quot;&gt;RFC&lt;/a&gt; (Czech only).
+This article will show you how you can solve these problems using the enhanced API provided by &lt;a href=&quot;https://github.com/Arachne/Security&quot;&gt;Arachne/Security&lt;/a&gt;.</description>
+
+                    <itunes:subtitle>Authorization in &lt;a href=&quot;https://github.com/nette/security&quot;&gt;Nette/Security&lt;/a&gt; has some long-known drawbacks as demonstrated in my 4 years old &lt;a href=&quot;https://forum.nette.org/cs/13458-security-iauthorizator-a-identita&quot;&gt;RFC&lt;/a&gt; (Czech only).
+This article will show you how you can solve these problems using the enhanced API provided by &lt;a href=&quot;https://github.com/Arachne/Security&quot;&gt;Arachne/Security&lt;/a&gt;.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/08/14/arachne-security-separate-authentication-and-session-refresh</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>In many cases &lt;a href=&quot;https://github.com/nette/security&quot;&gt;Nette/Security&lt;/a&gt; lacks the API needed for certain tasks.
+Experienced Nette users therefore often recommend using some custom solution instead.
+In this article I&#039;ll go over the known problems with user authentication and how &lt;a href=&quot;https://github.com/Arachne/Security&quot;&gt;Arachne/Security&lt;/a&gt; can help you solve them.</description>
+
+                    <itunes:subtitle>In many cases &lt;a href=&quot;https://github.com/nette/security&quot;&gt;Nette/Security&lt;/a&gt; lacks the API needed for certain tasks.
+Experienced Nette users therefore often recommend using some custom solution instead.
+In this article I&#039;ll go over the known problems with user authentication and how &lt;a href=&quot;https://github.com/Arachne/Security&quot;&gt;Arachne/Security&lt;/a&gt; can help you solve them.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/07/12/the-bulletproof-event-naming-for-symfony-event-dispatcher</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>I wrote &lt;a href=&quot;/blog/2016/12/05/symfony-event-dispatcher/&quot;&gt;intro to Symfony\EventDispatcher&lt;/a&gt; and how to use it with simple event.
+&lt;br&gt;&lt;br&gt;
+But when it comes to dispatching events, you can choose from &lt;strong&gt;4 different ways&lt;/strong&gt;. Which one to choose and why?
+Today I will show you pros and cons of them to make it easier for you.</description>
+
+                    <itunes:subtitle>I wrote &lt;a href=&quot;/blog/2016/12/05/symfony-event-dispatcher/&quot;&gt;intro to Symfony\EventDispatcher&lt;/a&gt; and how to use it with simple event.
+&lt;br&gt;&lt;br&gt;
+But when it comes to dispatching events, you can choose from &lt;strong&gt;4 different ways&lt;/strong&gt;. Which one to choose and why?
+Today I will show you pros and cons of them to make it easier for you.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/06/10/nenechte-si-podrazit-nohy-iteratory-v-php</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Iterátory v PHP jsou občas zrádné. V některých kolekcích se chovají neintuitivně. Zjistěte proč a vyhnete se tím hodinám zbytečného hledání chyb.</description>
+
+                    <itunes:subtitle>Iterátory v PHP jsou občas zrádné. V některých kolekcích se chovají neintuitivně. Zjistěte proč a vyhnete se tím hodinám zbytečného hledání chyb.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/06/02/best-practice-for-symfony-console-in-nette</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>If you use Symfony\Console in Nette, you will be probably familiar with &lt;code&gt;php index.php command&lt;/code&gt; approach.
+It has been obsolete since Nette 2.3, and we should all migrate to its successor.
+This blog post will show you why and how.</description>
+
+                    <itunes:subtitle>If you use Symfony\Console in Nette, you will be probably familiar with &lt;code&gt;php index.php command&lt;/code&gt; approach.
+It has been obsolete since Nette 2.3, and we should all migrate to its successor.
+This blog post will show you why and how.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/05/01/symfony-a-wedos-multihosting</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Spuštění webu postaveném na Symfony na Wedos multihostingu vypadalo na první pohled jako snadná věc. Nakonec jsem se na tom zasekl na 3 dny, než jsem přišel na to, jak hosting správně nastavit.&lt;br&gt;
+Aby se s tím nemusel trápit někdo další, tak jsem se rozhodl sepsat tento článek s návodem a s problémy na které jsem narazil. Finální řešení je nakonec jednoduché.</description>
+
+                    <itunes:subtitle>Spuštění webu postaveném na Symfony na Wedos multihostingu vypadalo na první pohled jako snadná věc. Nakonec jsem se na tom zasekl na 3 dny, než jsem přišel na to, jak hosting správně nastavit.&lt;br&gt;
+Aby se s tím nemusel trápit někdo další, tak jsem se rozhodl sepsat tento článek s návodem a s problémy na které jsem narazil. Finální řešení je nakonec jednoduché.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/03/30/nastaveni-gitlab-ci-pro-produkcni-aplikaci</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>GitLab CI je dnes moderní. Vychází o něm články s krásnými, jednoduchými příklady, jak jej začít používat. Pak ale člověk narazí. Jak se utkat s překážkami a vyjít z toho jako vítěz?</description>
+
+                    <itunes:subtitle>GitLab CI je dnes moderní. Vychází o něm články s krásnými, jednoduchými příklady, jak jej začít používat. Pak ale člověk narazí. Jak se utkat s překážkami a vyjít z toho jako vítěz?</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/03/27/multiple-php-versions-the-easy-way</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Always wanted to try or run your application with a different PHP version without breaking everything else? Why not, there is a way to run multiple versions in parallel!</description>
+
+                    <itunes:subtitle>Always wanted to try or run your application with a different PHP version without breaking everything else? Why not, there is a way to run multiple versions in parallel!</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/03/24/sablony-v-phpstormu</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Jak si usnadnit život používáním live a file templates v PhpStormu</description>
+
+                    <itunes:subtitle>Jak si usnadnit život používáním live a file templates v PhpStormu</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/03/20/jak-posilat-e-maily-pres-amazon-ses</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Posílat emaily přes Amazon SES je snadné a levné. Zkuste to taky.</description>
+
+                    <itunes:subtitle>Posílat emaily přes Amazon SES je snadné a levné. Zkuste to taky.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/03/16/git-in-terminal</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Tento článek je určen pro začátečníky, kteří se chystají začít učit verzovací systém Git. Popisuje proč se vyplatí používat Git v příkazové řádce namísto v grafickém prostředí externích SW či IDE.</description>
+
+                    <itunes:subtitle>Tento článek je určen pro začátečníky, kteří se chystají začít učit verzovací systém Git. Popisuje proč se vyplatí používat Git v příkazové řádce namísto v grafickém prostředí externích SW či IDE.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/03/13/how-to-add-https-to-github-pages-in-6-steps</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>I always loved GitHub Pages, thanks to open-source and free hosting. Last thing that made me feel too oldschool was the plain &amp;quot;http://&amp;quot; protocol. That is usually the main argument why people move from GitHub Pages elsewhere, i.e. their own VPS. What a pity.
+&lt;br&gt;
+Fortunately, thanks for Michal Špaček&#039;s ability to explain complex stuff in a simple way, we solved this over a single weekend.</description>
+
+                    <itunes:subtitle>I always loved GitHub Pages, thanks to open-source and free hosting. Last thing that made me feel too oldschool was the plain &amp;quot;http://&amp;quot; protocol. That is usually the main argument why people move from GitHub Pages elsewhere, i.e. their own VPS. What a pity.
+&lt;br&gt;
+Fortunately, thanks for Michal Špaček&#039;s ability to explain complex stuff in a simple way, we solved this over a single weekend.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/03/08/jak-snadne-je-pouzivat-ci</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Nejspíš jste zkratku CI již někde viděli, možná tušíte, co Continuous Integration znamená. Chcete vědět, jak snadno CI používat na vašich projektech? Pak čtěte dále.</description>
+
+                    <itunes:subtitle>Nejspíš jste zkratku CI již někde viděli, možná tušíte, co Continuous Integration znamená. Chcete vědět, jak snadno CI používat na vašich projektech? Pak čtěte dále.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/03/02/php-u-nas-ceka-rok-expanze</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Za minulý rok naše php komunita vyrostla jako nikdy předtím. Přestali jsem řešit, kdo má větší framework, &lt;strong&gt;začali jsme sdílet online i offline a spojovat se napříč republikou&lt;/strong&gt;. Mám z toho ohromnou radost!
+&lt;br&gt;&lt;br&gt;
+Dnes se s tebou chci podělit o to, kam jsme zatím došli a jaká velká cesta nás ještě čeká.</description>
+
+                    <itunes:subtitle>Za minulý rok naše php komunita vyrostla jako nikdy předtím. Přestali jsem řešit, kdo má větší framework, &lt;strong&gt;začali jsme sdílet online i offline a spojovat se napříč republikou&lt;/strong&gt;. Mám z toho ohromnou radost!
+&lt;br&gt;&lt;br&gt;
+Dnes se s tebou chci podělit o to, kam jsme zatím došli a jaká velká cesta nás ještě čeká.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/03/02/drop-robot-loader-and-let-composer-deal-with-autoloading</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Using 2 tools for one thing, in this case 2 packages to autoload classes, are sign of an architecture smell. Many applications I see contain RobotLoader for historical reasons. I will borrow this from psychology: pathological behavioral patterns tear us down in the present, but were useful in past.
+&lt;br&gt;&lt;br&gt;
+The best way to deal with them is acknowledge their purpose and then, let them go and enjoy the gift of present.</description>
+
+                    <itunes:subtitle>Using 2 tools for one thing, in this case 2 packages to autoload classes, are sign of an architecture smell. Many applications I see contain RobotLoader for historical reasons. I will borrow this from psychology: pathological behavioral patterns tear us down in the present, but were useful in past.
+&lt;br&gt;&lt;br&gt;
+The best way to deal with them is acknowledge their purpose and then, let them go and enjoy the gift of present.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/02/27/kostra-testovane-aplikace</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Stále tápete, jak vytvořit základní kostru aplikace, kde je Composer vč. autoloaderu a máte i testy? Podíváme se na to, že to je velmi jednoduché.</description>
+
+                    <itunes:subtitle>Stále tápete, jak vytvořit základní kostru aplikace, kde je Composer vč. autoloaderu a máte i testy? Podíváme se na to, že to je velmi jednoduché.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/02/24/symfony-validator-dynamic-constraints</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Some edge-cases with Symfony Validator might force you to create a constraint dynamically during the validation. This article will show you how to do it and how to solve error mapping for such constraints.</description>
+
+                    <itunes:subtitle>Some edge-cases with Symfony Validator might force you to create a constraint dynamically during the validation. This article will show you how to do it and how to solve error mapping for such constraints.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/02/18/symfony-validator-conditional-constraints</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>In some more complicated cases you need to do some validations only if some condition is met. This article covers the tricks you should use including a new feature in Symfony 3.2.</description>
+
+                    <itunes:subtitle>In some more complicated cases you need to do some validations only if some condition is met. This article covers the tricks you should use including a new feature in Symfony 3.2.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/02/11/symfony-validator-comparison-constraints</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>With Symfony/Validator there is no obvious way to implement validations like comparing a value to another property on the same object. There are several articles about this topic already but literally all of them are completely outdated. In this article I&#039;ll cover the correct way to solve this.</description>
+
+                    <itunes:subtitle>With Symfony/Validator there is no obvious way to implement validations like comparing a value to another property on the same object. There are several articles about this topic already but literally all of them are completely outdated. In this article I&#039;ll cover the correct way to solve this.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/02/09/jak-na-testovani-pomoci-codeception</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Jak automaticky testovat celé stránky a simulovat chování uživatele na webu pomocí Codeception</description>
+
+                    <itunes:subtitle>Jak automaticky testovat celé stránky a simulovat chování uživatele na webu pomocí Codeception</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/02/06/how-to-rehash-legacy-passwords-in-symfony</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>You need to import users from an old project, but but don&#039;t want to bother them with resetting their passwords just because you want to use bcrypt. Fortunately, there is a solution.</description>
+
+                    <itunes:subtitle>You need to import users from an old project, but but don&#039;t want to bother them with resetting their passwords just because you want to use bcrypt. Fortunately, there is a solution.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/01/30/konfiguracni-objekty-v-nette</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Jak se poprat s předáním konfigurace službě z config.neon? A jak k tomu využít Nette DI?</description>
+
+                    <itunes:subtitle>Jak se poprat s předáním konfigurace službě z config.neon? A jak k tomu využít Nette DI?</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/01/26/jak-zaregistrovat-nette-komponentu-jako-posluchace-udalosti</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Dnes si povíme o tom, jak přimět Nette &lt;strong&gt;komponenty poslouchat na události&lt;/strong&gt;, které nám vyvolává aplikace a umožnit jim se podle toho zachovat.</description>
+
+                    <itunes:subtitle>Dnes si povíme o tom, jak přimět Nette &lt;strong&gt;komponenty poslouchat na události&lt;/strong&gt;, které nám vyvolává aplikace a umožnit jim se podle toho zachovat.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/01/23/inteligentni-debug-mode-v-nette</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Jak se poprat se zapínáním debug módu při vývoji a jeho vypnutím na produkci? A co debug mód v konzoli? Pojďme se podívat, jak to řešit lépe.</description>
+
+                    <itunes:subtitle>Jak se poprat se zapínáním debug módu při vývoji a jeho vypnutím na produkci? A co debug mód v konzoli? Pojďme se podívat, jak to řešit lépe.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/01/20/jak-snadno-a-rychle-upravovat-soubory-ve-vendoru</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Už ses někdy dostal do situace, kdy jsi potřeboval opravit chybu nějaké závislosti ve složce vendor? Jak takovou úpravu sdílet v týmu s ostatními programátory a jak ji udržet v souboru i po spuštění composeru? V tomto článku se dovíš, jak snadno a elegantně se tento problém dá vyřešit během 1 minuty.</description>
+
+                    <itunes:subtitle>Už ses někdy dostal do situace, kdy jsi potřeboval opravit chybu nějaké závislosti ve složce vendor? Jak takovou úpravu sdílet v týmu s ostatními programátory a jak ji udržet v souboru i po spuštění composeru? V tomto článku se dovíš, jak snadno a elegantně se tento problém dá vyřešit během 1 minuty.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/01/20/jak-snadne-a-rychle-upravovat-soubory-ve-vendoru</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description></description>
+
+                    <itunes:subtitle></itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/01/15/jak-funguje-dependency-injection-v-symfony-a-v-nette</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>V tomto článku si ukážeme základy Dependency Injection &amp;ndash; jaký je rozdíl mezi Nette presenterem a Symfony controllerem. A jak přenést trochu chování Nette do Symfony.</description>
+
+                    <itunes:subtitle>V tomto článku si ukážeme základy Dependency Injection &amp;ndash; jaký je rozdíl mezi Nette presenterem a Symfony controllerem. A jak přenést trochu chování Nette do Symfony.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/01/12/why-articles-with-code-examples-should-be-CI-tested</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>I know many great articles that go right to the point. I use their code examples and they work. But when I recommend these articles to people I mentor, I realize the articles are already 2 years old and their code samples probably do not work any more. From hero to zero. Today I will show you how to keep them alive lot longer with a minimal effort.</description>
+
+                    <itunes:subtitle>I know many great articles that go right to the point. I use their code examples and they work. But when I recommend these articles to people I mentor, I realize the articles are already 2 years old and their code samples probably do not work any more. From hero to zero. Today I will show you how to keep them alive lot longer with a minimal effort.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/01/10/5-temat-po-kterych-php-programatori-touzi</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Zajímá české a slovenské programátory spíš intro do Gitu nebo Symfony pro pokročilé? Chtějí spíš týdenní výuku nebo víkendovou? Celý den nebo jen pár hodin? Na tyto a další otázky jsme měli jen subjektivní odpovědi. Chěli jsme vědět &amp;ndash; &lt;strong&gt;a tak vznikl dotazník o vzdělávání na míru - na něj nám odpovědlo 76 z vás a dnes se podělíme o jeho výsledky&lt;/strong&gt;.</description>
+
+                    <itunes:subtitle>Zajímá české a slovenské programátory spíš intro do Gitu nebo Symfony pro pokročilé? Chtějí spíš týdenní výuku nebo víkendovou? Celý den nebo jen pár hodin? Na tyto a další otázky jsme měli jen subjektivní odpovědi. Chěli jsme vědět &amp;ndash; &lt;strong&gt;a tak vznikl dotazník o vzdělávání na míru - na něj nám odpovědlo 76 z vás a dnes se podělíme o jeho výsledky&lt;/strong&gt;.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2017/01/05/symfony-console-from-scratch</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Symfony Console is the one package you will probably use to build a PHP CLI app. It&#039;s of one the easiest Symfony components. Why? You &lt;strong&gt;only create Application class, add your Command class and you are ready to go&lt;/strong&gt;.</description>
+
+                    <itunes:subtitle>Symfony Console is the one package you will probably use to build a PHP CLI app. It&#039;s of one the easiest Symfony components. Why? You &lt;strong&gt;only create Application class, add your Command class and you are ready to go&lt;/strong&gt;.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2016/12/30/testovani-php-kodu</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Testování aplikací není vždy tak snadné, jak se na papíře jeví. Svojí zkušeností jsem dospěl k&amp;nbsp;několika zásadám a&amp;nbsp;postupům, které se mi osvědčily a&amp;nbsp;které se tu pokusím sepsat a&amp;nbsp;částečně i&amp;nbsp;zdůvodnit. Pomáhají mi k&amp;nbsp;psaní čítelnějších a&amp;nbsp;udržovatelnějších testů. Za hlavní přínos pak považuji snadnou rozšiřitelnost testů, jejíž potřeba přichází s&amp;nbsp;rozšiřováním fukcionality projektu.</description>
+
+                    <itunes:subtitle>Testování aplikací není vždy tak snadné, jak se na papíře jeví. Svojí zkušeností jsem dospěl k&amp;nbsp;několika zásadám a&amp;nbsp;postupům, které se mi osvědčily a&amp;nbsp;které se tu pokusím sepsat a&amp;nbsp;částečně i&amp;nbsp;zdůvodnit. Pomáhají mi k&amp;nbsp;psaní čítelnějších a&amp;nbsp;udržovatelnějších testů. Za hlavní přínos pak považuji snadnou rozšiřitelnost testů, jejíž potřeba přichází s&amp;nbsp;rozšiřováním fukcionality projektu.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2016/12/22/adminer-pre-redis-memcache-rabbit</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Pred nejakým časom som potreboval vyhľadávať a zoraďovať dáta v Redise. Takže som si k tomu napísal jednoduchý PHP skript. A keď už som ho mal napísaný, chcel som pomôcť aj dalším ľuďom, ktorí by riešili podobný problém ako ja.</description>
+
+                    <itunes:subtitle>Pred nejakým časom som potreboval vyhľadávať a zoraďovať dáta v Redise. Takže som si k tomu napísal jednoduchý PHP skript. A keď už som ho mal napísaný, chcel som pomôcť aj dalším ľuďom, ktorí by riešili podobný problém ako ja.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2016/12/09/jaky-byl-symfonycon-berlin-2016</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Největší událost v Symfony světě je za námi. Představeny byly služby &lt;strong&gt;SensioCloud&lt;/strong&gt;, nový balíčkovací systém &lt;strong&gt;Symfony Flex&lt;/strong&gt; a mnoho dalšího.</description>
+
+                    <itunes:subtitle>Největší událost v Symfony světě je za námi. Představeny byly služby &lt;strong&gt;SensioCloud&lt;/strong&gt;, nový balíčkovací systém &lt;strong&gt;Symfony Flex&lt;/strong&gt; a mnoho dalšího.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2016/12/05/symfony-event-dispatcher</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Today we will look at first Symfony component - Event Dispatcher. Why should you start with it? It gives you flexibility, it is easy to understand and it helps you to write decoupled code.</description>
+
+                    <itunes:subtitle>Today we will look at first Symfony component - Event Dispatcher. Why should you start with it? It gives you flexibility, it is easy to understand and it helps you to write decoupled code.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2016/12/01/chces-psat-o-php-posli-pr</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Pokud ti v psaní brání to, &lt;strong&gt;že nemáš funkční blog, krásný design, velké sociální kruhy pro šíření článků nebo copy-cítění&lt;/strong&gt;, máme pro tebe řešení - komunitní blog o PHP. &lt;strong&gt;Nudnou rutinu nech na nás a v klidu se věnuj psaní&lt;/strong&gt;.</description>
+
+                    <itunes:subtitle>Pokud ti v psaní brání to, &lt;strong&gt;že nemáš funkční blog, krásný design, velké sociální kruhy pro šíření článků nebo copy-cítění&lt;/strong&gt;, máme pro tebe řešení - komunitní blog o PHP. &lt;strong&gt;Nudnou rutinu nech na nás a v klidu se věnuj psaní&lt;/strong&gt;.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                                                        <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2016/09/26/symfony-komunita-roste-na-pehapkare-a-otevira-se-vsem-php-programatorum</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>Symfony komunita mění svůj název, jinak vše zůstane stejné jako dosud.
+&lt;strong&gt;Říkáš si proč?&lt;/strong&gt; To se dnes dozvíš.</description>
+
+                    <itunes:subtitle>Symfony komunita mění svůj název, jinak vše zůstane stejné jako dosud.
+&lt;strong&gt;Říkáš si proč?&lt;/strong&gt; To se dnes dozvíš.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                                                                    <item>
+                    <title>Nejen o PHP </title>
+                    <guid>https://pehapkari.cz/blog/2016/03/03/kolik-lidi-je-potreba-k-vytvoreni-jedne-komunity</guid>
+                    <pubDate> 11:00:00 +0000</pubDate>
+                    <description>CEO České Symfony komunity. Vedoucí, evangelista, ten co dělá tu Symfony komunitu... Tak mi mnozí z vás občas říkají. Já se však pořád nemůžu zbavit pocitu, že za Symfony komunitou, tak jak ji známe v její dnešní podobě, nejsou vidět ty desítky dalších tváří, na kterých to celé stojí. Tváří lidí, kteří k ní přispěli malým či velkým dílem, kteří mě nakopli, a kteří mi pomáhají víc, než si sami vůbec uvědomují. Bez nich by tady totiž dnes nebylo vůbec nic. A proto bych vám o nich dnes rád řekl.</description>
+
+                    <itunes:subtitle>CEO České Symfony komunity. Vedoucí, evangelista, ten co dělá tu Symfony komunitu... Tak mi mnozí z vás občas říkají. Já se však pořád nemůžu zbavit pocitu, že za Symfony komunitou, tak jak ji známe v její dnešní podobě, nejsou vidět ty desítky dalších tváří, na kterých to celé stojí. Tváří lidí, kteří k ní přispěli malým či velkým dílem, kteří mě nakopli, a kteří mi pomáhají víc, než si sami vůbec uvědomují. Bez nich by tady totiž dnes nebylo vůbec nic. A proto bych vám o nich dnes rád řekl.</itunes:subtitle>
+                    <itunes:author><![CDATA[https://pehapkari.cz]]></itunes:author>
+                    <itunes:image href="https://pehapkari.cz/assets/images/logos/nejenophp_a1400.png" />
+                    <itunes:duration></itunes:duration>
+                </item>
+                        </channel>
+</rss>
